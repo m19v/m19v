@@ -1,2 +1,3 @@
-- 👋 Hi, my name is m19v
-- 👨‍💻 I am a Software Developer with a focus on Backend Development and DevOps/Cloud technologies
+# Hi! 👋 I'm m19v,
+
+I am a software developer specializing in backend development and DevOps/Cloud technologies.
